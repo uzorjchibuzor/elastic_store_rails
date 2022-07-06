@@ -1,1 +1,1 @@
-Code along tutorial by [https://www.youtube.com/watch?v=6i62s2v_2Og](Phil Smy) on how to use Elastic Search along with RDBMS on a Rails application.
+Code along tutorial by [Phil Smy](https://www.youtube.com/watch?v=6i62s2v_2Og) on how to use Elastic Search along with RDBMS on a Rails application.
